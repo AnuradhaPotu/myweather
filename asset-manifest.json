@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myweather.git/static/css/main.fe13ce19.chunk.css",
+    "main.js": "/myweather.git/static/js/main.d881f4a9.chunk.js",
+    "main.js.map": "/myweather.git/static/js/main.d881f4a9.chunk.js.map",
+    "runtime-main.js": "/myweather.git/static/js/runtime-main.6d64d6b5.js",
+    "runtime-main.js.map": "/myweather.git/static/js/runtime-main.6d64d6b5.js.map",
+    "static/css/2.818011ed.chunk.css": "/myweather.git/static/css/2.818011ed.chunk.css",
+    "static/js/2.5ffc952e.chunk.js": "/myweather.git/static/js/2.5ffc952e.chunk.js",
+    "static/js/2.5ffc952e.chunk.js.map": "/myweather.git/static/js/2.5ffc952e.chunk.js.map",
+    "static/js/3.7ad16223.chunk.js": "/myweather.git/static/js/3.7ad16223.chunk.js",
+    "static/js/3.7ad16223.chunk.js.map": "/myweather.git/static/js/3.7ad16223.chunk.js.map",
+    "index.html": "/myweather.git/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/myweather.git/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.fe13ce19.chunk.css.map": "/myweather.git/static/css/main.fe13ce19.chunk.css.map",
+    "static/js/2.5ffc952e.chunk.js.LICENSE.txt": "/myweather.git/static/js/2.5ffc952e.chunk.js.LICENSE.txt",
+    "static/media/weather.css": "/myweather.git/static/media/thunderstorm.2da3f3d8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d64d6b5.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.5ffc952e.chunk.js",
+    "static/css/main.fe13ce19.chunk.css",
+    "static/js/main.d881f4a9.chunk.js"
+  ]
+}
